@@ -1,0 +1,2 @@
+# DingdianNovel
+使用scrapy框架对顶点小说网10个类别的所有小说信息进行爬取，并且存放到MySQL数据库中。
